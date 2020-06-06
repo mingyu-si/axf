@@ -1,6 +1,6 @@
 cffi==1.13.2
 cryptography==2.8
-Django==1.11.7
+Django==1.11.29
 django-debug-toolbar==2.1
 django-redis==4.11.0
 django-redis-cache==2.1.0
